@@ -1,76 +1,76 @@
-<div align="center">
+﻿<div align="center">
 
-# Привет, я - `ZeroDaylight` 👋
+# Hi, I am `ZeroDaylight0` 👋
 
 ### IoT • Smart Home • Automation • Infrastructure • Software
 
-Собираю практичные системы, которые связывают железо, сеть и код в одно 
-единое работающее пространство.
+I build practical systems that connect hardware, networks and code into one
+working environment.
 
 <p>
-  <a href="https://github.com/sdfghjkl404?tab=repositories">
+  <a href="https://github.com/ZeroDaylight0?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub projects">
   </a>
-  <a href="https://github.com/sdfghjkl404/PUBG-tracker">
+  <a href="https://github.com/ZeroDaylight0/PUBG-tracker">
     <img src="https://img.shields.io/badge/Featured-PUBG%20Tracker-f97316?style=for-the-badge" alt="Featured project">
   </a>
 </p>
 
 </div>
 
-## 🧭 Кто я
+## 🧭 Who I am
 
-Я развиваю собственную домашнюю лабораторию и портфолио проектов на стыке
-**умного дома, IoT, автоматизации, сетей и прикладной разработки**.
+I am building my own home lab and a portfolio of projects across
+**smart home, IoT, automation, networking and application development**.
 
-Мне интересен не отдельный гаджет или скрипт, а весь путь целиком:
+I am interested in the complete path, not just one gadget or script:
 
 ```text
-датчик / устройство → MQTT → автоматизация → сервис → интерфейс → результат
+sensor / device → MQTT → automation → service → interface → result
 ```
 
-Этот профиль - витрина экспериментов, рабочих конфигураций и законченных
-проектов. Здесь собраны решения, которые можно изучать, запускать,
-дорабатывать и адаптировать под собственную инфраструктуру.
+This profile is a showcase of experiments, working configurations and
+completed projects. These are solutions that can be studied, launched,
+improved and adapted to your own infrastructure.
 
-## 🛠️ Чем занимаюсь
+## 🛠️ What I do
 
-| Направление | Что делаю |
+| Area | What I build |
 |---|---|
-| 🏠 Smart Home | Сценарии, устройства, панели управления и связка сервисов |
-| ⚡ Home Assistant | Автоматизации, интеграции, сенсоры и удобные интерфейсы |
-| 🔧 openHAB | Правила, предметы и управление домашней инфраструктурой |
-| 🔀 Node-RED | Визуальные потоки, обработка событий и интеграция систем |
-| 📡 MQTT | Обмен состояниями между устройствами, сервисами и контроллерами |
-| 🧩 ESPHome / ESP32 | Датчики, реле, дисплеи, мониторинг энергии и кастом |
-| 🔐 Сети и VPN | Удалённый доступ, сегментация, безопасное подключение к сервисам |
-| 🤖 Автоматизация | Python, PowerShell, и небольшие утилиты для рутины |
-| 🎮 Прикладные проекты | Инструменты для анализа данных и локальные веб-приложения |
+| 🏠 Smart Home | Scenarios, devices, control panels and connected services |
+| ⚡ Home Assistant | Automations, integrations, sensors and useful interfaces |
+| 🔧 openHAB | Rules, items and home infrastructure control |
+| 🔀 Node-RED | Visual flows, event processing and system integration |
+| 📡 MQTT | State exchange between devices, services and controllers |
+| 🧩 ESPHome / ESP32 | Sensors, relays, displays, energy monitoring and custom hardware |
+| 🔐 Networking and VPN | Remote access, segmentation and secure service connections |
+| 🤖 Automation | Python, PowerShell and small utilities for repetitive tasks |
+| 🎮 Application projects | Data analysis tools and local web applications |
 
-## 🚀 Избранные проекты
+## 🚀 Featured projects
 
-### [PUBG Tracker](https://github.com/sdfghjkl404/PUBG-tracker)
+### [PUBG Tracker](https://github.com/ZeroDaylight0/PUBG-tracker)
 
-Локальный анализатор матчей PUBG с интерактивной tactical map:
+A local PUBG match analyzer with an interactive tactical map:
 
-- история последних матчей;
-- состав команды и статистика игроков;
-- маршруты перемещения и телеметрия;
-- kills, knocks, зоны и игровые события;
-- локальный Python proxy с безопасным хранением API-ключа.
+- recent match history;
+- team roster and player statistics;
+- movement routes and telemetry;
+- kills, knocks, zones and in-game events;
+- a local Python proxy with secure API key storage.
 
-### [ESPHome IoT](https://github.com/sdfghjkl404/ESPHome-IoT)
+### [ESPHome IoT](https://github.com/ZeroDaylight0/ESPHome-IoT)
 
-Портфолио конфигураций ESPHome и ESP32-проектов:
+A portfolio of ESPHome configurations and ESP32 projects:
 
-- мониторинг энергии;
+- energy monitoring;
 - JK-BMS;
-- дисплеи и интерфейсы;
-- датчики;
-- камеры и сетевые устройства;
-- wiring notes и pinout-документация.
+- displays and interfaces;
+- sensors;
+- cameras and network devices;
+- wiring notes and pinout documentation.
 
-## 🧱 Технологический стек
+## 🧱 Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -84,53 +84,54 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
 </p>
 
-Также использую YAML, REST API, HTML/CSS/JavaScript, Git, Docker,
-брокеры MQTT, reverse proxy и инструменты мониторинга - в зависимости от
-задачи.
+I also use YAML, REST APIs, HTML/CSS/JavaScript, Git, Docker, MQTT brokers,
+reverse proxies and monitoring tools depending on the task.
 
-## 🤖 Как я использую ИИ
+## 🤖 How I use AI
 
-ИИ для меня - **инструмент ускорения разработки, а не замена инженерным
-решениям**.
+For me, AI is a **tool that speeds up development, not a replacement for
+engineering decisions**.
 
-С его помощью я могу:
+I use it to:
 
-- поставить ему задачу выполнить какой то проект, и заниматся другими делами;
-- учится новым навыкам, познавать интересное;  
-- быстрее исследовать документацию и варианты реализации;
-- подготовить черновик конфигурации или прототип;
-- разобрать ошибку и найти возможные причины;
-- улучшить структуру README и технической документации;
-- провести рефакторинг и подготовить тестовые сценарии.
+- assign it a project and work on other tasks at the same time;
+- learn new skills and explore interesting topics;
+- research documentation and implementation options faster;
+- prepare a configuration draft or prototype;
+- investigate errors and find possible causes;
+- improve README files and technical documentation;
+- refactor code and prepare test scenarios.
 
-При этом я сам проверяю результат: запускаю код, сверяю конфигурацию с
-реальным железом и API, проверяю безопасность и адаптирую решение под свою
-инфраструктуру. Секреты, токены и приватные данные не публикуются.
+I still verify the result myself: I run the code, compare configurations with
+real hardware and APIs, check security and adapt the solution to my
+infrastructure. Secrets, tokens and private data are not published.
 
-## 🔒 Мой подход
+## 🔒 My approach
 
-- **Рабочее важнее показного** - проект должен запускаться и решать задачу.
-- **Безопасность по умолчанию** - секреты хранятся отдельно от публичного кода.
-- **Документация рядом с кодом** - pinout, зависимости и ограничения должны
-  быть понятны.
-- **Маленькие итерации** - сначала рабочий прототип, затем улучшение UX,
-  надёжности и поддержки.
-- **Открытый обмен опытом** - полезные решения должны быть воспроизводимыми.
+- **Working is more important than looking impressive** - a project should run
+  and solve a real problem.
+- **Security by default** - secrets are stored separately from public code.
+- **Documentation next to the code** - pinouts, dependencies and limitations
+  should be clear.
+- **Small iterations** - start with a working prototype, then improve UX,
+  reliability and maintainability.
+- **Open exchange of experience** - useful solutions should be reproducible.
 
-## 📌 Что будет появляться здесь
+## 📌 What will appear here
 
-- новые проекты домашней автоматизации;
-- ESPHome-конфигурации и схемы подключения;
-- Node-RED потоки и MQTT-паттерны;
-- скрипты для обслуживания и автоматизации;
-- заметки по VPN, сетям и локальным сервисам;
-- прикладные инструменты и эксперименты.
+- new home automation projects;
+- ESPHome configurations and wiring diagrams;
+- Node-RED flows and MQTT patterns;
+- maintenance and automation scripts;
+- notes about VPN, networking and local services;
+- application tools and experiments.
 
 <div align="center">
 
-### Спасибо, что заглянули! ⭐
+### Thanks for stopping by! ⭐
 
-Если проект оказался полезным — поставьте звезду или откройте issue с идеей
-для улучшения.
+If you find a project useful, leave a star or open an issue with an idea for
+improvement.
 
 </div>
+
