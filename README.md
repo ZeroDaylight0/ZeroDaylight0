@@ -33,6 +33,13 @@ This profile is a showcase of experiments, working configurations and
 completed projects. These are solutions that can be studied, launched,
 improved and adapted to your own infrastructure.
 
+### 🛠️ Core Skills
+
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
+
 ## 🛠️ What I do
 
 | Area | What I build |
