@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi, I am `ZeroDaylight0` 👋
 
@@ -11,8 +11,8 @@ working environment.
   <a href="https://github.com/ZeroDaylight0?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub projects">
   </a>
-  <a href="https://github.com/ZeroDaylight0/PUBG-tracker">
-    <img src="https://img.shields.io/badge/Featured-PUBG%20Tracker-f97316?style=for-the-badge" alt="Featured project">
+  <a href="https://zerodaylight0.github.io/WEB_DisplayMaker_esp32/">
+    <img src="https://img.shields.io/badge/Live%20demo-PixelForge-c3f36b?style=for-the-badge" alt="PixelForge live demo">
   </a>
 </p>
 
@@ -39,7 +39,9 @@ improved and adapted to your own infrastructure.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript(AI)">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ## 🛠️ What I do
@@ -57,6 +59,17 @@ improved and adapted to your own infrastructure.
 | 🎮 Application projects | Data analysis tools and local web applications |
 
 ## 🚀 Featured projects
+
+### [PixelForge · ESP32 display editor](https://github.com/ZeroDaylight0/WEB_DisplayMaker_esp32) · [live demo](https://zerodaylight0.github.io/WEB_DisplayMaker_esp32/)
+
+A browser-based visual editor for OLED, TFT and e-paper screens:
+
+- drag-and-drop layouts for 28 displays and boards (CYD, T-Display, M5Stack);
+- import of existing Arduino `.ino` and ESPHome YAML drawing code;
+- export to U8g2, Arduino_GFX and ESPHome, plus PNG/SVG;
+- self-hosted accounts and project sync (Node.js + SQLite, Docker).
+
+<a href="https://github.com/ZeroDaylight0/WEB_DisplayMaker_esp32"><img src="https://raw.githubusercontent.com/ZeroDaylight0/WEB_DisplayMaker_esp32/main/docs/screenshots/editor.png" alt="PixelForge editor" width="720"></a>
 
 ### [PUBG Tracker](https://github.com/ZeroDaylight0/PUBG-tracker)
 
@@ -79,6 +92,13 @@ A portfolio of ESPHome configurations and ESP32 projects:
 - cameras and network devices;
 - wiring notes and pinout documentation.
 
+### More projects
+
+| Project | What it does |
+|---|---|
+| [Signal/Log](https://github.com/ZeroDaylight0/signal-log-analyzer) | Local log analyzer: drop in a log, get evidence-backed findings, a timeline and next steps from Gemini, OpenAI, Claude or Grok. |
+| [TGbot_tracker](https://github.com/ZeroDaylight0/TGBOT_logger) | Local archive of messages, photos, videos and voice messages sent to your Telegram bots. |
+
 ## 🧱 Tech stack
 
 <p>
@@ -93,7 +113,7 @@ A portfolio of ESPHome configurations and ESP32 projects:
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
 </p>
 
-I also use YAML, REST APIs, HTML/CSS/JavaScript, Git, Docker, MQTT brokers,
+I also use YAML, REST APIs, FastAPI, Node.js, Git, Docker, MQTT brokers,
 reverse proxies and monitoring tools depending on the task.
 
 ## 🤖 How I use AI
