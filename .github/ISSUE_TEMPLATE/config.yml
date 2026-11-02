@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project issues
+    url: https://github.com/ZeroDaylight0?tab=repositories
+    about: Please open issues in the repository of the specific project.
