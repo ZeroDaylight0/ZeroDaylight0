@@ -31,8 +31,9 @@ sensor / device → MQTT → automation → service → interface → result
       INA219/ADS1115 energy monitoring, air-raid alert and weather displays,
       vibration sensors, an ESP32-CAM meter reader and Ethernet nodes, all
       over MQTT and Home Assistant.</p>
-      <p>The screen images are rendered from the real display code, which is
-      compiled on every push.</p>
+      <p>The screen images are rendered from the real display code, and
+      every configuration is checked with <code>esphome config</code> on
+      every push.</p>
       <p>
         <img src="https://img.shields.io/badge/ESPHome-000000?style=flat-square&logo=esphome&logoColor=white" alt="ESPHome">
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
